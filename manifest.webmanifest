@@ -1,0 +1,26 @@
+{
+  "name": "輔科舞告賀｜輔助科技 × 自造 × USR",
+  "short_name": "輔科舞告賀",
+  "description": "輔助科技、自造教育與USR社會實踐成果入口。",
+  "lang": "zh-Hant-TW",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#F7FAFC",
+  "theme_color": "#102A43",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
