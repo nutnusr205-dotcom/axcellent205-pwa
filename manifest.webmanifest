@@ -1,12 +1,9 @@
 {
-  "name": "輔科舞告賀｜輔助科技 × 自造 × USR",
+  "name": "輔科舞告賀｜AxcellenT",
   "short_name": "輔科舞告賀",
-  "description": "輔助科技、自造教育與USR社會實踐成果入口。",
-  "lang": "zh-Hant-TW",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "orientation": "any",
   "background_color": "#F7FAFC",
   "theme_color": "#102A43",
   "icons": [
