@@ -1,4 +1,15 @@
-輔科舞告賀 PWA v1.1
+# 輔科舞告賀 PWA v1.2
 
-新增 AxcellenT 官方網站：https://www.axcellent.fun/
-更新網站後請將全部檔案上傳至 GitHub Repository 根目錄，覆蓋舊檔案。
+## 本版更新
+- 完整品牌首頁
+- 精選輔具作品區
+- 需求到實踐六階段流程
+- 教育／醫療／社福／國際服務場域
+- AxcellenT 官方網站與 YouTube 雙入口
+- PWA 安裝、離線與新版提示
+- 手機／平板／電腦響應式排版
+- 頁尾署名：輔科舞告賀團隊 AI設計開發
+
+## GitHub Pages 更新方式
+將 ZIP 解壓縮後，把裡面的檔案全部上傳到目前 Repository 的最外層並覆蓋舊檔案。
+不要把整個 axcellent-pwa-v1.2 資料夾再包一層上傳。
